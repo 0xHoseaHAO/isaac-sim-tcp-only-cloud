@@ -11,7 +11,7 @@ Isaac Sim’s official WebRTC livestream **cannot** cross cloud proxies that onl
 
 **Workaround that preserves NVENC livestream:** run Isaac streaming **and** the official WebRTC Streaming Client on the GPU host (UDP stays local), then view the client window through **TurboVNC + noVNC** on the single TCP port your provider already gives you.
 
-Scripts + write-up: **https://github.com/PLACEHOLDER/isaac-sim-tcp-only-cloud**  
+Scripts + write-up: **https://github.com/0xHoseaHAO/isaac-sim-tcp-only-cloud**  
 (Tested: Isaac Sim **6.1**, AutoDL-style Linux container, RTX-class GPU.)
 
 ## The problem
