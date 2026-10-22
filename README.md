@@ -52,7 +52,7 @@ Map **one** cloud custom service / HTTP port to container `WEB_PORT` (default `6
 ## Quick start
 
 ```bash
-git clone https://github.com/<YOU>/isaac-sim-tcp-only-cloud.git
+git clone https://github.com/0xHoseaHAO/isaac-sim-tcp-only-cloud.git
 cd isaac-sim-tcp-only-cloud
 
 cp config/example.env config/.env
