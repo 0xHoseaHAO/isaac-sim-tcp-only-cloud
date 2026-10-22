@@ -1,0 +1,8 @@
+config/.env
+logs/
+*.log
+nvenc/libnvenc_fix.so
+*.so
+.DS_Store
+__pycache__/
+*.pyc
